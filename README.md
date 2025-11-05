@@ -19,7 +19,7 @@ Skilled in **Java, Spring Boot, React.js, Python, Firebase, and MongoDB**, I foc
 #### 🔹 [MGNREGA Insight Dashboard](https://github.com/ChaitanyaGore28/MGNREGA-Insight)
 A bilingual full-stack web app for visualizing MGNREGA performance data using React, Spring Boot, and MongoDB.
 
-#### 🔹 [Food Donation App](https://github.com/ChaitanyaGore28/Food-Donation-App)
+#### 🔹 [Food Donation App](https://github.com/ChaitanyaGore28/Annasahayya)
 Android app built in Java and Firebase for connecting donors and recipients with real-time map integration.
 
 📫 **Reach Me:**  
